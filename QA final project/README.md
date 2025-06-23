@@ -50,7 +50,7 @@
 
 ## טכנולוגיות וכלים בשימוש
 
-- שפת Python 3  
+- Python version 3.12  
 - ספריית Selenium WebDriver  
 - מסגרת בדיקות unittest  
 - דפדפן Chrome  
