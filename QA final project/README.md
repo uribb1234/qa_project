@@ -37,14 +37,17 @@
 
 - **חלון קופץ (popup)**:
   - בדיקה שכל לחיצה על כפתור מסוים פותחת חלון קלט מהסוג `prompt`.
-  - מוזן טקסט ונבדקת תגובת המערכת לאישור.
+  - מוזן טקסט ונבדקת תגובת המערכת לאישור.  
+  - 🎥 [צפייה בסרטון הדגמה של חלון קופץ](https://raw.githubusercontent.com/uribb1234/qa_project/main/QA%20final%20project/tests/images/vid/testpopup.mp4)
 
 - **קישור חיצוני**:
-  - נבדק שכפתור בשם *Merriam-Webster Dictionary* מפנה לאתר חיצוני תקין.
+  - נבדק שכפתור בשם *Merriam-Webster Dictionary* מפנה לאתר חיצוני תקין.  
+  - 🎥 [צפייה בסרטון הדגמה של בדיקת קישור חיצוני](https://raw.githubusercontent.com/uribb1234/qa_project/main/QA%20final%20project/tests/images/vid/webster.mp4)
 
 - **הורדת קובץ**:
   - בדיקה של תהליך הורדה מדומה.
-  - מופיעה הודעה על סיום הורדה, נלחץ כפתור "אישור", ונבדק שההודעה נעלמה מהמסך בהתאם לציפיות.
+  - מופיעה הודעה על סיום הורדה, נלחץ כפתור "אישור", ונבדק שההודעה נעלמה מהמסך בהתאם לציפיות.  
+  - 🎥 [צפייה בסרטון הדגמה של הורדת קובץ](https://raw.githubusercontent.com/uribb1234/qa_project/main/QA%20final%20project/tests/images/vid/downloadform.mp4)
 
 ---
 
